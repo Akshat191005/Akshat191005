@@ -1,11 +1,9 @@
 ## 👋 About Me
 
 Hi, I’m **Akshat Singhvi**, a Pre-final year BTech Computer Science student at **Thapar University**, focused on **Generative AI and Agentic AI**.  
-
 I work on **production-oriented LLM systems**, particularly in **Retrieval-Augmented Generation (RAG), conversational AI, and efficient inference**.  
 
 I have experience with **LangChain, FAISS, ChromaDB, and Groq API**, and I’m interested in building systems that can **retrieve, reason, and generate meaningful insights from data**.  
-
 I’m particularly interested in **agentic AI systems and modular LLM architectures**, and how they enable more **autonomous and intelligent decision-making**.
 
 

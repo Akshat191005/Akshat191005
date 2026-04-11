@@ -1,5 +1,12 @@
-# 💫 About Me:
-I’m a Pre-final year BTech. Computer Science undergraduate at Thapar University with a strong focus on Machine Learning and Generative AI, particularly in building practical, production oriented LLM applications. My work centers around Retrieval Augmented Generation (RAG), conversational AI systems, and efficient LLM inference, where I combine theory with hands-on implementation.<br><br>I have experience working with tools and frameworks like LangChain, FAISS, ChromaDB, and Groq API, and I enjoy designing systems that can understand, retrieve, and generate meaningful information from complex datasets. From building SQL-generating chatbots to RAG-based Q&A systems with conversational memory, I focus on creating solutions that are both scalable and low-latency.<br><br>Beyond LLMs, I have also developed projects in computer vision and machine learning, including real-time gesture recognition systems. My approach emphasizes end-to-end pipelines from data preprocessing and model design to deployment using tools like Gradio.<br><br>I’m particularly interested in exploring how agentic AI systems and modular LLM architectures can replicate real world decision-making workflows, especially in domains like finance and knowledge systems.<br>
+## 👋 About Me
+
+Hi, I’m **Akshat Singhvi**, a Pre-final year BTech Computer Science student at **Thapar University**, focused on **Generative AI and Agentic AI**.  
+
+I work on **production-oriented LLM systems**, particularly in **Retrieval-Augmented Generation (RAG), conversational AI, and efficient inference**.  
+
+I have experience with **LangChain, FAISS, ChromaDB, and Groq API**, and I’m interested in building systems that can **retrieve, reason, and generate meaningful insights from data**.  
+
+I’m particularly interested in **agentic AI systems and modular LLM architectures**, and how they enable more **autonomous and intelligent decision-making**.
 
 
 ## 🌐 Socials:

@@ -25,6 +25,7 @@ I’m particularly interested in **agentic AI systems and modular LLM architectu
 #### 🔍 RAG / Vector Databases
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 #### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

@@ -13,10 +13,14 @@ I’m particularly interested in **agentic AI systems and modular LLM architectu
 ## 🖥️ Tech Stack:
 
 **Generative AI / Agentic AI**
+**Generative AI / Agentic AI**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-1E3A5F?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C1C1C?style=for-the-badge)
 
 **RAG / Vector Databases**
